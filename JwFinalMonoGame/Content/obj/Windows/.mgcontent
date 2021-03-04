@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Arial22.spritefont</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Fonts/hilightfont.spritefont</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Fonts/regularfont.spritefont</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/about.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ball.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ballz.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ballz1.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/Bat.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/bgbattleship.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/blockimg.jpg</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/breakableWall.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/Easter.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/Egg.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/help.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/BreakableWallSound.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/BreakableWallSounds.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/menuSound.mp3</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/MissSound.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/PlatformBounceSound.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/PlatformBounceSounds.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/PlatformBounceSoundz.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/sClip.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/sClips.mp3</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/StartSound.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/WallBounceSound.wav</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/night-background_PNG.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/pixel.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/platform.png</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/platforms.jpg</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ring.jpg</File>
+    <File>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/Cracker.png</File>
+  </SourceFiles>
+</SourceFileCollection>

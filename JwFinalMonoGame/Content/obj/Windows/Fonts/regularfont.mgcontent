@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Fonts/regularfont.spritefont</SourceFile>
+  <SourceTime>2018-11-28T09:36:54-05:00</SourceTime>
+  <DestFile>F:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/bin/Windows/Fonts/regularfont.xnb</DestFile>
+  <DestTime>2018-12-08T19:52:04-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

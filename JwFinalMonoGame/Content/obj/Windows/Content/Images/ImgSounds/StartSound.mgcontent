@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/StartSound.wav</SourceFile>
+  <SourceTime>2017-04-07T19:32:22-04:00</SourceTime>
+  <DestFile>E:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/bin/Windows/Content/Images/ImgSounds/StartSound.xnb</DestFile>
+  <DestTime>2018-12-08T16:35:02-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

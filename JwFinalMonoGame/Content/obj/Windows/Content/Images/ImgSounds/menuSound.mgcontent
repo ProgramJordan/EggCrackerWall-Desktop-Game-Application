@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/Images/ImgSounds/menuSound.mp3</SourceFile>
+  <SourceTime>2018-12-06T10:57:50-05:00</SourceTime>
+  <DestFile>E:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/bin/Windows/Content/Images/ImgSounds/menuSound.xnb</DestFile>
+  <DestTime>2018-12-08T16:34:58-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/JWeadickFinalProject/JwFinalMonoGame/JwFinalMonoGame/JwFinalMonoGame/Content/bin/Windows/Content/Images/ImgSounds/menuSound.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
